@@ -6,6 +6,11 @@ This repository contains the code and resources for a machine learning project f
 ## Repo Structure
     ├── README.md             <- Overview and guidance for developers.
     ├── EDA                   <- Notebooks for initial data exploration.
-    ├── processed-data        <- Final data sets for model training.
-    ├── raw-data              <- Original, unmodified data.
     ├── feature-processing    <- Code for preprocessing data, merging, and modeling. All in one
+
+## Our Team 
+* Nguyen Minh Huong
+* Tran Truc Quynh
+* Dang Thi Phuong Thao
+* Nguyen Tuan Trong
+
